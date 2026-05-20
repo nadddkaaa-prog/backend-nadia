@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456789",
+    "database": "portfolio_db",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "123456789",
+    "database": "portfolio_db_test",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": "123456789",
+    "database": "portfolio_db_production",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false
+  }
+}
